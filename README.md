@@ -1,25 +1,11 @@
 # variables_plus
 
-A simple Python library to create, clear, read, write and delete variables in multiple sandboxes.
+A simple Python library that motivates you every 10-120 seconds.
 
-This is my first python library :D
-
-Commands:
-
-vp.vp("create(variable=something)")   # Remove =something to create a blank variable.
-
-vp.vp("clear(variable)")   # Leave clear() empty to clear all variables.
-
-vp.vp("delete(variable)")   # Variable needs to exist.
-
-vp.vp("read(variable)")   # Doesn't print it. Use print(vp.vp("read(variable)")) to print the variables contents.
-
-vp.vp(“write(variable=something)”)   # Variable needs to exist.
-
-vp.vp("SANDBOX()") # Add a number between the brackets for the sandbox ID.
+This is my seventh python library :D
 
 # !NB!
 
-Use: pip install variablesplus
+Use: pip install egglord
 
-But, to import it: import vp
+But, to import it: import egglord
