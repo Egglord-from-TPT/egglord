@@ -1,1 +1,1 @@
-import .egglord
+from . import egglord
