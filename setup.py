@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="variables_plus",
-    version="3.1.0",
+    name="egglord",
+    version="1.0.0",
     packages=find_packages(),
-    description="A simple library to create, clear, and delete global variables, safely.",
-    author="",
+    description="A simple Python library that motivates you every 10-120 seconds.",
+    author="egglord",
     python_requires=">=3.7",
 )
