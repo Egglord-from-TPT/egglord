@@ -1,4 +1,4 @@
-# variables_plus
+# egglord
 
 A simple Python library that motivates you every 10-120 seconds.
 
